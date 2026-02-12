@@ -1,4 +1,4 @@
 # LLM-EFA
-An externally augmented LLM approach for short-term electricity forecasting under abrupt changes
+Large Language Models for Modeling Abrupt and Irregular Electricity Demand Dynamics in Short-Term Forecasting
 
 Coming soon
