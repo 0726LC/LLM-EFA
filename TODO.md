@@ -1,7 +1,5 @@
 # LLM-EFA Public TODO
 
-For Chinese readers, see [TODO.zh-CN.md](./TODO.zh-CN.md).
-
 This checklist tracks the public materials planned for this repository.
 
 > Note: private electricity demand target data will not be released.
